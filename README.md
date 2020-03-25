@@ -1,5 +1,7 @@
-# Relation (Knowledge) Extraction via Reading Comprehension
+# RE via RC
 
+
+This repo collects papers on relation/knowledge extraction via reading comprehension.
 
 [Entity-Relation Extraction as Multi-turn Question Answering (ACL 2019)](https://arxiv.org/pdf/1905.05529.pdf)
 
