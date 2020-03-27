@@ -1,7 +1,7 @@
 # RE via RC
 
 
-This repo collects papers on Relation/Knowledge Extraction via Reading Comprehension (Question Answering).
+This repo collects papers related to Relation/Knowledge Extraction via Reading Comprehension (Question Answering).
 
 [Zero-Shot Relation Extraction via Reading Comprehension (CoNLL 2017)](https://arxiv.org/pdf/1706.04115.pdf)
 
